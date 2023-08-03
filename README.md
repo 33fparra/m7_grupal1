@@ -1,5 +1,5 @@
 <img src="public/images/boldoMedio.png" align="right" />
- <h1 align= left ><b>Grupal 1 M7 /Equipo Boldo</b> <img src = "https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width = 80px></h1>
+ <h1 align= left ><b>Grupal 1 M7 /EquipoBoldo</b> <img src = "https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width = 80px></h1>
 
 <br>
 
@@ -91,9 +91,12 @@ Antes de iniciar este desafío deberás crear una base de datos y una tabla con 
 
 ✨ Con nuestra aplicacion puedes:
 
-1. Funcionalidad : Agregar personas(roommates) de forma aleatoria
-2. Funcionalidad : Agregar Gastos y Descripcion de los mismos y guardarlos en un archivo .json
-3. Funcionalidad : Calcular los que deben y lo que reciben cada uno de los roommates 
+1. Realizar la conexión a base de datos con la clase Client.
+2. Crear una función asíncrona para registrar un nuevo estudiante en la base de datos.
+3. Crear una función asíncrona para obtener por consola el registro de un estudiante por medio de su rut.
+4. Crear una función asíncrona para obtener por consola todos los estudiantes registrados.
+5. Crear una función asíncrona para actualizar los datos de un estudiante en la base de datos.
+6. Crear una función asíncrona para eliminar el registro de un estudiante de la base de datos.
 
 
 <!-- ![Foto de grupo](public/images/grupoVerde.jpg) -->
